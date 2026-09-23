@@ -1,0 +1,6 @@
+{
+  "name": "AlignOS",
+  "description": "Unified Personal Life Operating System bringing 5 critical pillars into one daily habit and alignment engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
